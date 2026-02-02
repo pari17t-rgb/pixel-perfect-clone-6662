@@ -45,44 +45,55 @@ const LetterSection = () => {
               </p>
 
               <p>
-                I've been wanting to write this letter for a long time. There are
-                so many things I want to say, so many feelings I want to express,
-                and I finally found the courage to put them into words.
+                I’ve been wanting to say this properly, not in bits and pieces just 
+                from my heart.Lately things have felt a little off between us and I 
+                know a big reason for that is me.I got caught up in my own things and 
+                somewhere in that you felt unseen. And that hurts me,because the last 
+                thing I would ever want is for you to feel like you don’t matter to me 
+                because you matter so, so much Doboo.
               </p>
 
               <p>
-                You came into my life when I least expected it, and since then,
-                you've become one of the most important people in my world. You've
-                seen me at my best and at my worst, and you've never judged me.
-                You've celebrated my victories and held my hand through my
-                struggles.
+                You came into my life when I least expected it and since then
+                you've become one of the most important people in my life. You've
+                seen me at my best and at my worst and you've never judged me.
               </p>
 
               <p>
-                I want you to know that your presence in my life is a gift I
-                treasure every single day. The way you listen without judgment,
-                the way you make me laugh until my stomach hurts, the way you
-                believe in me even when I don't believe in myself—these are things
-                I will never take for granted.
+                You’ve always been there for me through my overthinking, my crying, 
+                my gussa, my random moods and I hate the thought that I made you feel 
+                like I wasn’t there when you needed me rajaa. I’m really sorry for that. 
+                Not a casual sorry, but a real one. I should’ve shown you better, not 
+                just felt it.
               </p>
 
               <p>
-                Thank you for being you. Thank you for your patience, your
-                kindness, and your unwavering support. Thank you for the late-night
-                conversations, the spontaneous adventures, and the comfortable
-                silences we share.
+                You’re not just someone I talk to you’re my safe place, the person I 
+                trust without thinking twice. Even when life gets busy or things get messy,
+                you’re still my person Sohamm. That hasn’t changed n it won’t.
               </p>
 
               <p>
-                No matter where life takes us, know that you will always have a
-                special place in my heart. Our friendship is one of the greatest
-                blessings of my life, and I promise to cherish it always.
+                If I ever made you feel like you were taken for granted please know 
+                that was never my intention. I value you more than I probably show sometimes
+                and I’m learning to do better not just say it, but prove it.
+              </p>
+
+              <p>
+                Thank you for being patient with me. Thank you for staying, even when things 
+                felt weird. And thank you for being you the one who irritates me, supports 
+                me, pushes me, and somehow still makes everything feel goodd.
+                I don’t want perfect. I just want us with a lot more of those good moments.
+              </p>
+
+              <p>
+                You matter to me. A lot. Always have. Always will.
               </p>
 
               <div className="pt-8 space-y-2">
-                <p>With all my love and gratitude,</p>
+                <p>With lots of love (and a promise to be more present),</p>
                 <p className="text-primary text-2xl md:text-3xl font-semibold">
-                  Your Forever Friend
+                  Your Dumbo🫂
                 </p>
               </div>
             </div>
