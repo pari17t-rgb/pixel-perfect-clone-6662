@@ -57,16 +57,7 @@ const MemoriesSection = () => {
               animate={isInView ? { opacity: 1, y: 0 } : {}}
               transition={{ duration: 0.5, delay: index * 0.1 }}
             >
-             {/* Image */}
-<div
-  className={`aspect-[4/3] bg-gradient-to-br ${memory.color} relative overflow-hidden`}
->
-  <img
-    src={memory.image} // or "/images/photo.jpg"
-    alt="Memory"
-    className="w-full h-full object-cover"
-  />
-</div>
+            {/* Image Placeholder */} <div className={aspect-[4/3] bg-gradient-to-br ${memory.color} relative overflow-hidden} > <div className="absolute inset-0 flex items-center justify-center"> <Camera className="w-12 h-12 text-muted-foreground/30" /> </div>
                 {/* Hover Overlay */}
                 <div className="absolute inset-0 bg-foreground/0 group-hover:bg-foreground/10 transition-colors duration-300 flex items-center justify-center">
                   <Heart className="w-8 h-8 text-primary opacity-0 group-hover:opacity-100 transition-opacity duration-300 fill-primary" />
