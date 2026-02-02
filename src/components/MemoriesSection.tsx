@@ -23,21 +23,6 @@ const MemoriesSection = () => {
       description: "Every birthday, achievement, and milestone we've celebrated together.",
       color: "from-secondary to-muted",
     },
-    {
-      title: "Tough Times",
-      description: "The moments we held each other up when everything seemed impossible.",
-      color: "from-muted to-secondary",
-    },
-    {
-      title: "Random Fun",
-      description: "Spontaneous adventures and inside jokes only we understand.",
-      color: "from-primary/15 to-secondary",
-    },
-    {
-      title: "Future Dreams",
-      description: "All the plans we've made and the dreams we share together.",
-      color: "from-accent/15 to-primary/15",
-    },
   ];
 
   return (
