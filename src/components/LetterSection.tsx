@@ -41,7 +41,7 @@ const LetterSection = () => {
             {/* Letter Content */}
             <div className="handwritten text-foreground space-y-6 text-lg md:text-xl leading-relaxed">
               <p className="text-primary font-semibold text-xl md:text-2xl">
-                My Dearest Friend,
+                Dear Doboo,
               </p>
 
               <p>
@@ -91,9 +91,9 @@ const LetterSection = () => {
               </p>
 
               <div className="pt-8 space-y-2">
-                <p>With lots of love (and a promise to be more present),</p>
+                <p>With lots of love (and a promise💫 to be more present),</p>
                 <p className="text-primary text-2xl md:text-3xl font-semibold">
-                  Your Dumbo🫂
+                  Your Dumbo🫂❤️
                 </p>
               </div>
             </div>
