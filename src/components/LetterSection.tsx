@@ -98,7 +98,16 @@ const LetterSection = () => {
               </div>
             </div>
 
-            
+        {/* Heart Decoration */}
+            <motion.div
+              className="flex justify-center mt-10"
+              animate={{ scale: [1, 1.1, 1] }}
+              transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
+            >
+              <Heart className="w-10 h-10 text-primary fill-primary" />
+            </motion.div>
+          </div>
+        </motion.div>
 
         {/* Call to Action */}
         <motion.div
